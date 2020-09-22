@@ -31,7 +31,7 @@
     "express-recaptcha": "^2.1.0",
     "github": "^3.0.0",
     "js-yaml": "^3.10.0",
-    "mailgun-js": "^0.7.13",
+    "mailgun-js": "^0.22.0",
     "markdown-table": "^1.0.0",
     "md5": "^2.1.0",
     "moment": "^2.18.1",
